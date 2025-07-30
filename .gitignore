@@ -174,8 +174,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Images
+# Exams
 API_Exam.ipynb
+.fastapi_exam_XXXX
+fastapi_exam_XXXX/
 # Logs Tensorboard
 .log
 log/
